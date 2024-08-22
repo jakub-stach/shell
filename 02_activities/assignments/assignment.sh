@@ -13,15 +13,13 @@ mkdir dir1 dir2 dir3 dir4 dir5
 
 # 2. List the contents of the parent directory to verify the presence of the 5 directories
 
-ls
+ls  
 
 # 3. Create 5 text files in dir2 named file1, file2, file3, file4, and file5
 
 # 4. Append the words "Hello world" to dir2/file3
 
 # 5. Verify that file3 contains the words "hello world" by printing the contents of the file in the terminal
-
-cat file3
 
 # 6. Delete file4
 
